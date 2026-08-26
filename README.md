@@ -31,10 +31,10 @@ jupyter notebook Proyecto_Mineros_Primera_Entrega.ipynb
 Las rutas son relativas (`datos/` y `salidas/`), así que hay que ejecutarlo desde la raíz del
 repositorio. Correr todas las celdas en orden regenera los CSV y las figuras de `salidas/`.
 
-## Limitaciones
+## Alcance
 
-- La unión usa `inner`, por lo que la base cubre el 26,5 % del padrón (18,483 de 69,642). Los
-  excluidos son sobre todo locales rurales, así que los perfiles no representan al sistema
-  educativo nacional.
-- OSIPTEL no incluye a Movistar, solo a Bitel, Claro, Entel e Integratel.
-- La cobertura móvil es del centro poblado, no del local.
+La base reúne los locales con información en las cuatro fuentes: 18,483 de los 69,642 del padrón.
+Los perfiles describen a ese conjunto.
+
+- OSIPTEL cubre Bitel, Claro, Entel e Integratel; no incluye a Movistar.
+- La cobertura móvil corresponde al centro poblado, no al local.
