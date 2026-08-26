@@ -1,0 +1,29 @@
+﻿variable,rol,descripcion,vacios
+codlocal,identificacion,Identificador unico del local educativo,0
+departamento,identificacion,,0
+provincia,identificacion,,0
+distrito,identificacion,,0
+region_dre,identificacion,,0
+cod_ugel,identificacion,,0
+nombre_ugel,identificacion,,0
+centro_poblado,identificacion,,0
+cod_centro_poblado,identificacion,,0
+area,identificacion,Ambito del local: urbano o rural,0
+gestion_codigo,identificacion,,0
+tiene_registro_recursos,disponibilidad de fuente,,0
+tiene_registro_lineas,disponibilidad de fuente,,0
+tiene_registro_cobertura,disponibilidad de fuente,,0
+recursos_total,analitica,Cantidad total de recursos tecnologicos del local,0
+recursos_operativos,analitica,Cantidad de recursos que estan operativos,0
+recursos_necesitan_reparacion,analitica,Equipos operativos que necesitan reparacion,0
+pct_recursos_operativos,analitica,Porcentaje de los recursos totales que estan operativos,0
+pct_operativos_reparacion,analitica,Porcentaje de los operativos que necesita reparacion,378
+pct_operativos_mas_3_anios,analitica,Porcentaje de los operativos con mas de tres anios,378
+n_lineas,analitica,Numero de lineas de internet registradas,0
+n_lineas_activas,analitica,Numero de lineas declaradas activas,0
+velocidad_bajada_max,analitica,Mayor velocidad de bajada entre las lineas del local,0
+velocidad_subida_max,analitica,Mayor velocidad de subida entre las lineas del local,0
+cobertura_3g_max_pct,analitica,Mayor cobertura 3G entre operadores del centro poblado,0
+cobertura_4g_max_pct,analitica,Mayor cobertura 4G entre operadores del centro poblado,0
+cobertura_5g_max_pct,analitica,Mayor cobertura 5G entre operadores del centro poblado,0
+operadores_4g_con_cobertura,analitica,Operadores con algo de cobertura 4G en el centro poblado,0

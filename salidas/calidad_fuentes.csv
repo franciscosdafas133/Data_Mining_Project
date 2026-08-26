@@ -1,0 +1,13 @@
+﻿fuente,regla,filas_que_incumplen
+Recursos tecnologicos,La clave codlocal + numero_recurso esta repetida,0
+Recursos tecnologicos,La cantidad operativa es mayor que la cantidad total,0
+Recursos tecnologicos,Buen estado + reparacion no suma la cantidad operativa,0
+Recursos tecnologicos,Menos de 3 anios + mas de 3 anios no suma la cantidad operativa,0
+Recursos tecnologicos,Hay cantidades negativas,0
+Recursos tecnologicos,El tipo de recurso no se pudo traducir,0
+Lineas de internet,Filas apartadas por no tener codlocal valido,6
+Lineas de internet,La clave codlocal + numero_linea esta repetida,0
+Lineas de internet,El ancho contratado es negativo,0
+Lineas de internet,La velocidad garantizada esta fuera de 0 a 100,0
+Lineas de internet,La velocidad de bajada es negativa,0
+Lineas de internet,La velocidad de subida es negativa,0
