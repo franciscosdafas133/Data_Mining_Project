@@ -38,3 +38,7 @@ Los perfiles describen a ese conjunto.
 
 - OSIPTEL cubre Bitel, Claro, Entel e Integratel; no incluye a Movistar.
 - La cobertura móvil corresponde al centro poblado, no al local.
+
+
+
+LInk del colab: https://colab.research.google.com/drive/1rqaA2bh1FbdHIvDvh5_Djn__6hPQkcua?usp=sharing
