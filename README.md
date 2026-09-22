@@ -41,4 +41,4 @@ Los perfiles describen a ese conjunto.
 
 
 
-LInk del colab: https://colab.research.google.com/drive/1rqaA2bh1FbdHIvDvh5_Djn__6hPQkcua?usp=sharing
+LInk del colab: https://colab.research.google.com/drive/1M1xHa6D9a9_R9h0YF_PBpwBGG0d4lzQa#scrollTo=dAPsoDgCJxaP
