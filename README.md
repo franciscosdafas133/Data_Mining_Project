@@ -42,3 +42,4 @@ Los perfiles describen a ese conjunto.
 
 
 LInk del colab: https://colab.research.google.com/drive/1NROPlQCj0G6-5YIp2ktx0qwg78kIsYNR?usp=sharing
+Link de la actividad de PCA Y NMF: https://colab.research.google.com/drive/1bvi3vbLQaz1fLOgoblBoiafOcyUTBP9_?usp=sharing
