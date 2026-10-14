@@ -23,7 +23,11 @@ salidas/                                 Resultados que genera el notebook
 
 ## Cómo ejecutar
 
+`datos/loc_lineal_1.dbf` pesa 163 MB y supera el límite de GitHub, por eso se sube comprimido.
+Hay que descomprimirlo antes de ejecutar el notebook:
+
 ```bash
+unzip datos/loc_lineal_1.zip -d datos/
 pip install -r requirements.txt
 jupyter notebook Proyecto_Mineros_Primera_Entrega.ipynb
 ```
