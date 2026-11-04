@@ -102,5 +102,4 @@ Las celdas se ejecutan en orden. El informe se compila con
 - Pendiente para el Hito 4: validación con área (urbano/rural) y gestión, detección de anomalías y
   discusión global.
 
-Link del colab: https://colab.research.google.com/drive/1NROPlQCj0G6-5YIp2ktx0qwg78kIsYNR?usp=sharing
-Link de la actividad de PCA y NMF: https://colab.research.google.com/drive/1bvi3vbLQaz1fLOgoblBoiafOcyUTBP9_?usp=sharing
+Link del colab: https://colab.research.google.com/drive/1HxrWT8FlSCS-4Vs88-Bzt0IJ48vKtUqb#scrollTo=dc87e18e
