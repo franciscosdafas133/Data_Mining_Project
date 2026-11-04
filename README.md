@@ -102,4 +102,6 @@ Las celdas se ejecutan en orden. El informe se compila con
 - Pendiente para el Hito 4: validación con área (urbano/rural) y gestión, detección de anomalías y
   discusión global.
 
-Link del colab: https://colab.research.google.com/drive/1HxrWT8FlSCS-4Vs88-Bzt0IJ48vKtUqb#scrollTo=dc87e18e
+Link del colab: https://colab.research.google.com/drive/1HxrWT8FlSCS-4Vs88-Bzt0IJ48vKtUqb?usp=sharing 
+
+
