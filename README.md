@@ -103,5 +103,6 @@ Las celdas se ejecutan en orden. El informe se compila con
   discusión global.
 
 Link del colab: https://colab.research.google.com/drive/1HxrWT8FlSCS-4Vs88-Bzt0IJ48vKtUqb?usp=sharing 
+link  del colab actual: https://colab.research.google.com/drive/1cp3kHknosTcyPKvOaseKhahbu1YOZOII?usp=sharing
 
 
